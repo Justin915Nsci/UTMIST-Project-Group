@@ -7,5 +7,5 @@ Implement each network as a Python class with appropriate parameters as inputs. 
 ## Network List:
 * Glimpse Network -> Geoffrey & Arsh
 * Emission Network -> Oswald & James
-* Recurrent Network -> Sean & Sepehr
+* Recurrent Network -> Sean, Sepehr & Justin
 * Classification Network -> Stanley, Khantil, & Ritvik
